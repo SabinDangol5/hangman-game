@@ -21,7 +21,7 @@ Test your vocabulary, guess the hidden word, and try not to let the stickman han
 3. Each wrong guess draws a part of the hangman.  
 4. Win by guessing the word before the hangman is complete!
    
-## [👉 Click here to play](https://your-username.github.io/your-repo-name)
+## [👉 Click here to play]([https://your-username.github.io/your-repo-name](https://sabindangol5.github.io/hangman-game/)
 
 
 
